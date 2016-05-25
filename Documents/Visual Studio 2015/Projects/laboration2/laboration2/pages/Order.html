@@ -1,0 +1,190 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>World Shopping</title>
+	<meta charset="utf-8" />
+    <meta name="author" content="Aveen" />
+    <meta name="description" content="Shopping"/>
+   <!-- <link href="style/stilig.css" rel="stylesheet" />-->
+</head>
+<body>
+    <header>
+        <h1>Försäljning</h1>
+        <nav>
+            <ul>
+                <li><a href="../Index.html">Home</a></li>
+                <li><a href="Order.html">Order</a></li>
+                <li><a href="recipe.html">recipe</a></li>
+            </ul>
+        </nav>
+    </header>
+    <div>
+        <table>
+            <tr>
+                <td>
+                    <fieldset>
+                        <legend>Klänning</legend>
+                        <figure>
+                            <img src="../images/klänning.JPG" />
+                            <figcaption>klänningar</figcaption>
+                        </figure>
+                        <span>700kr</span><br/>
+                        <input type="number" min="0" max="10" value="0" />
+                        <button type="submit" value="submit">sale</button>
+                    </fieldset>
+                </td>
+                <td>
+                    <fieldset>
+                        <legend>Jeans</legend>
+                        <figure>
+                            <img src="../images/jeans.JPG" />
+                            <figcaption>jeans</figcaption>
+                        </figure>
+                        <span>300kr</span><br />
+                        <input type="number" min="0" max="10" value="0" />
+                        <button type="submit" value="submit">sale</button>
+                    </fieldset>
+                </td>
+                <td>
+                    <fieldset>
+                        <legend>Kjol</legend>
+                        <figure>
+                            <img src="../images/kjolar.JPG" />
+                          <figcaption>Kjolar</figcaption>
+                        </figure>
+                        <span>800kr</span><br />
+                        <input type="number" min="0" max="10" value="0" />
+                        <button type="submit" value="submit">sale</button>
+                    </fieldset>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <fieldset>
+                        <legend>short</legend>
+                        <figure>
+                            <img src="../images/short.JPG" />
+                            <figcaption>Shorter</figcaption>
+                        </figure>
+                        <span>200kr</span><br />
+                        <input type="number" min="0" max="10" value="0" />
+                        <button type="submit" value="submit">sale</button>
+                    </fieldset>
+                </td>
+                <td>
+                    <fieldset>
+                        <legend>Toppar</legend>
+                        <figure>
+                            <img src="../images/toppar.JPG" />
+                            <figcaption>klänningar</figcaption>
+                        </figure>
+                        <span>100kr</span><br />
+                        <input type="number" min="0" max="10" value="0" />
+                        <button type="submit" value="submit">sale</button>
+                    </fieldset>
+                </td>
+                <td>
+                    <fieldset>
+                        <legend>Tröjor</legend>
+                        <figure>
+                            <img src="../images/tröjor.JPG" />
+                            <figcaption>tröjor</figcaption>
+                        </figure>
+                        <span>400kr</span><br />
+                        <input type="number" min="0" max="10" value="0" />
+                        <button type="submit" value="submit">sale</button>
+                    </fieldset>
+                </td>
+                
+            </tr>
+        </table>
+    </div>
+    <div>
+        <form action="recipe.html" method="get" autocomplete="off">
+        <table>
+            <tr>
+                <td>
+                    <fieldset id="userinfo">
+                        <legend>user info</legend>
+                        <label>
+                            user name:
+                            <input type="text" name="user name" autofocus/>
+                        </label>
+                        <label>
+                            Email:
+                            <input type="email" name="email" required="required"/>
+                        </label>
+                        <label>
+                            Password:
+                            <input type="password" name="pw" required="required"/>
+                        </label>
+                    </fieldset>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <fieldset id="delivery">
+                        <legend>delivery address</legend>
+                        <label>
+                            Name:
+                            <input type="text" name="name"/>
+                        </label>
+                        <label>
+                            street:
+                            <input type="text" name="atreet"/>
+                        </label>
+                        <label>
+                            Zip:
+                            <input type="number" name="zip"/>
+                        </label>
+                        <label>
+                            Town:
+                            <input type="text" name="town"/>
+                        </label>
+                        <label>
+                            Phone number:
+                            <input type="number" name="phone number"/>
+                        </label>
+                    </fieldset>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <fieldset id="payment">
+                        <legend>delivery address</legend>
+                        <label>
+                            Name:
+                            <input type="text" name="name" />
+                        </label>
+                        <label>
+                            street:
+                            <input type="text" name="street" />
+                        </label>
+                        <label>
+                            Zip:
+                            <input type="number" name="zip" />
+                        </label>
+                        <label>
+                            Town:
+                            <input type="text" name="town" />
+                        </label>
+                        <label>
+                            Phone number:
+                            <input type="number" name="phone number" />
+                        </label>
+                        <label>
+                            Project Number:
+                            <input type="number" name="project number"/>
+                        </label>
+                    </fieldset>
+                    <input type="submit" name="submit" value="order"/>
+                </td>
+            </tr>
+        </table>
+       </form>
+    </div>
+    <footer>
+        <p> copyright 2016 &nbsp;&nbsp;&copy; aveen_algaff@hotmail.com</p>
+    </footer>
+</body>
+</html>
