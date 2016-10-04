@@ -5,3 +5,10 @@ C:\Users\aveen\Documents\Visual Studio 2015\Projects\WebShopOnesie\WebShopOnesie
 C:\Users\aveen\Documents\Visual Studio 2015\Projects\WebShopOnesie\WebShopOnesieProject\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
 C:\Users\aveen\Documents\Visual Studio 2015\Projects\WebShopOnesie\WebShopOnesieProject\BL\obj\Debug\BL.dll
 C:\Users\aveen\Documents\Visual Studio 2015\Projects\WebShopOnesie\WebShopOnesieProject\BL\obj\Debug\BL.pdb
+C:\Users\aveen\Source\Repos\CSharp\asp.net\WebShopOnesieProject\BL\bin\Debug\BL.dll
+C:\Users\aveen\Source\Repos\CSharp\asp.net\WebShopOnesieProject\BL\bin\Debug\BL.pdb
+C:\Users\aveen\Source\Repos\CSharp\asp.net\WebShopOnesieProject\BL\bin\Debug\DAL.dll
+C:\Users\aveen\Source\Repos\CSharp\asp.net\WebShopOnesieProject\BL\bin\Debug\DAL.pdb
+C:\Users\aveen\Source\Repos\CSharp\asp.net\WebShopOnesieProject\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\aveen\Source\Repos\CSharp\asp.net\WebShopOnesieProject\BL\obj\Debug\BL.dll
+C:\Users\aveen\Source\Repos\CSharp\asp.net\WebShopOnesieProject\BL\obj\Debug\BL.pdb

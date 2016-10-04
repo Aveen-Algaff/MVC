@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data;
 using System.Data.SqlClient;
 using System.Linq;
 using System.Text;
@@ -69,5 +70,59 @@ namespace DAL.ConnectionLayer
 
             return products;
         }
+
+        SqlConnection con = new SqlConnection();
+        SqlCommand cmd = new SqlCommand();
+        private void SetComnd(string stmt)
+        {
+            con.ConnectionString = "Data Source=(local);Initial Catalog = OrderSystem;Integrated Security = True";
+            con.Open();
+            cmd.Connection = con;
+            cmd.CommandText = stmt;
+            //con.Close();
+        }
+        private void DisConnect()
+        {
+            con.Close();
+        }
+        public int RunInsDelUpd(string stmt)
+        {
+            //code
+
+            SetComnd(stmt);
+            int rows = cmd.ExecuteNonQuery();
+            DisConnect();
+            return rows;
+        }
+        public DataTable RunQuery(string select)
+        {
+            //code
+            SetComnd(select);
+            DataTable tbl = new DataTable();
+            tbl.Load(cmd.ExecuteReader());
+            DisConnect();
+            return tbl;
+        }
+        public bool logIn(string user, string pass)
+        {
+            string sql = ("select * from tblCustomer where FirstName='"+ user +"'and Password='" + pass+"'");
+            DataTable tbl= RunQuery(sql);
+            if (tbl.Rows.Count>0)
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
+        }
+
+
+        //public bool register(string FName, string LName, string Password, string Confirm, string city, string Street, int ZipCod, string Address, string Email)
+        //{
+        //    string sql = "Insert in to tblRegister values('" + FName + "','" + Password + "','" + Confirm + "','" + Address + "','" + Email + "','" + LName + "','" + city + "','" + Street + "','" + ZipCod + "')";
+
+        //}
+
     }
 }

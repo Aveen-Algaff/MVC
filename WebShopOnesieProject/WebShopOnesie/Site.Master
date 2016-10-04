@@ -41,18 +41,18 @@
             </Scripts>
         </asp:ScriptManager>
         <div class="mainheader">
-        <div class="container-fluid">
-            <div class="row text-left">
-                <div class="col-md-2">
-                    
-                </div>
-                <div class="col-md-7">
-                    <img runat="server" src="images/onesieisland2.png" />
-                </div>
-                <div class="col-md-3">
+            <div class="container-fluid">
+                <div class="row text-left">
+                    <div class="col-md-2">
+                        <asp:Label ID="lblUser" CssClass="login-title" runat="server" Text=""></asp:Label>
+                    </div>
+                    <div class="col-md-7">
+                        <img runat="server" src="images/onesieisland2.png" />
+                    </div>
+                    <div class="col-md-3">
+                    </div>
                 </div>
             </div>
-        </div>
         </div>
         <%--Start Navbar--%>
         <nav class="navbar navbar-inverse navbar-default">
@@ -94,9 +94,14 @@
                         <button type="submit" class="btn btn-default"><a class="glyphicon glyphicon-search"></a></button>
                     </div>
                     <ul class="nav navbar-nav navbar-right">
-                        <li><a runat="server" href="~/Account/Login.aspx">Login</a></li>
-                        <li><a runat="server" href="~/Account/Register.aspx">Register</a></li>
-                        <%--<li class="dropdown">
+                        <asp:Panel ID="Panel1" class="nav navbar-nav" runat="server">
+                        <li><a runat='server' href='~/Account/Logout.aspx'>Logout</a></li></asp:Panel>
+                        <asp:Panel ID="Panel2" runat="server">
+                        <li><a runat='server' href='~/Account/Register.aspx'>Register</a></li>
+                        <li><a runat='server' href='~/Account/Login.aspx'>Login</a></li></asp:Panel>
+                    </ul>
+
+                    <%--<li class="dropdown">
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Dropdown <span class="caret"></span></a>
                             <ul class="dropdown-menu">
                                 <li><a href="#">Action</a></li>
@@ -117,11 +122,11 @@
         <div class="container body-content">
             <asp:ContentPlaceHolder ID="MainContent" runat="server">
             </asp:ContentPlaceHolder>
-            <hr />            
+            <hr />
         </div>
         <footer class="container-fluid text-center" runat="server">
-                <p>&copy; <%: DateTime.Now.Year %> - WebShopOnesie</p>
-            </footer>
+            <p>&copy; <%: DateTime.Now.Year %> - WebShopOnesie</p>
+        </footer>
     </form>
 </body>
 </html>

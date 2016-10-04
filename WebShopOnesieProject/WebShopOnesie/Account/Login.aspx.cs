@@ -1,4 +1,5 @@
-﻿using System;
+﻿using DAL.ConnectionLayer;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -11,7 +12,28 @@ namespace WebShopOnesie.Account
     {
         protected void Page_Load(object sender, EventArgs e)
         {
+            
+        }
 
+        protected void btnSignup_Click(object sender, EventArgs e)
+        {
+            ProductLayer log = new ProductLayer();
+            if (log.logIn(txtUserName.Text,txtPassword.Text)==true)
+            {
+                //HttpCookie c = new HttpCookie("login");
+                Session["login"]= txtUserName.Text;
+               
+                if (ChkRemember.Checked)
+                {
+                    //Session["login"]
+                }
+                
+                Response.Redirect("~/Default.aspx");
+            }
+            else
+            {
+                lbllogin.Text = "User/Password incorrect";
+            }
         }
     }
 }

@@ -3,3 +3,8 @@ C:\Users\aveen\Documents\Visual Studio 2015\Projects\WebShopOnesie\WebShopOnesie
 C:\Users\aveen\Documents\Visual Studio 2015\Projects\WebShopOnesie\WebShopOnesieProject\DAL\bin\Debug\DAL.pdb
 C:\Users\aveen\Documents\Visual Studio 2015\Projects\WebShopOnesie\WebShopOnesieProject\DAL\obj\Debug\DAL.dll
 C:\Users\aveen\Documents\Visual Studio 2015\Projects\WebShopOnesie\WebShopOnesieProject\DAL\obj\Debug\DAL.pdb
+C:\Users\aveen\Source\Repos\CSharp\asp.net\WebShopOnesieProject\DAL\bin\Debug\DAL.dll
+C:\Users\aveen\Source\Repos\CSharp\asp.net\WebShopOnesieProject\DAL\bin\Debug\DAL.pdb
+C:\Users\aveen\Source\Repos\CSharp\asp.net\WebShopOnesieProject\DAL\obj\Debug\DAL.dll
+C:\Users\aveen\Source\Repos\CSharp\asp.net\WebShopOnesieProject\DAL\obj\Debug\DAL.pdb
+C:\Users\aveen\Source\Repos\CSharp\asp.net\WebShopOnesieProject\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
