@@ -1,0 +1,87 @@
+﻿body {
+    padding-top: 1px;
+}
+/*******Start Overriding Bootstrap*******/
+
+/*******Start Overriding Bootstrap*******/
+/*Main Navbar*/
+.navbar {
+    min-height: 70px;
+    background-color:#3B437C;
+}
+
+/*Navbar Link*/
+.navbar-inverse .navbar-nav > li > a {
+    color: #BBB;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    font-size: 33px;
+    background-color:#3B437C;
+}
+
+.navbar-inverse .navbar-nav > .active >a,
+.navbar-inverse .navbar-nav > .active >a:hover,
+.navbar-inverse .navbar-nav > .active >a:focus
+{
+    background-color:#3B437C;
+}
+/*Brand Name*/
+.navbar-inverse .navbar-brand {
+    color: #BBB;
+    font-size: 30px;
+    line-height: 40px;
+}
+/*Dropdown Menu*/
+
+.navbar-inverse .navbar-nav > .open > a, 
+.navbar-inverse .navbar-nav > .open > a:hover, 
+.navbar-inverse .navbar-nav > .open > a:focus
+{
+     background-color: #3B437C;
+}
+.dropdown-menu {
+    background-color: #3B437C;
+    min-width: 200px;
+}
+
+.navbar-right .dropdown-menu {
+    left: 0;
+    right: auto;
+   
+}
+
+.dropdown-menu > li > a {
+    color: #FFF;
+    padding: 6px 20px;
+    transition: padding 0.5s ease;
+}
+
+    .dropdown-menu > li > a:hover,
+    .dropdown-menu > li > a:focus {
+        color: #FFF;
+        padding-left: 25px;
+        background-color:#ff0000;
+    }
+
+.dropdown-menu .divider {
+    background-color: #4D7E63;
+}
+.form-group, .btn
+{
+    margin-top:10px;
+}
+/*Navbar Toggle*/
+.navbar-toggle {
+    margin-top: 18px;
+}
+/*Start Footer*/
+footer
+{
+   height:40px;
+    background-color:#3B437C;
+    color:#BBB;
+    font-size:20px;
+    padding-top:10px;
+    padding-bottom:10px;
+}
+/*End Footer*/

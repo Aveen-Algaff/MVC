@@ -1,0 +1,100 @@
+c:\users\aveen\documents\visual studio 2015\Projects\WebShopOnesie\WebShopOnesieProject\WebShopOnesie\bin\ApplicationInsights.config
+c:\users\aveen\documents\visual studio 2015\Projects\WebShopOnesie\WebShopOnesieProject\WebShopOnesie\bin\roslyn\csc.exe
+c:\users\aveen\documents\visual studio 2015\Projects\WebShopOnesie\WebShopOnesieProject\WebShopOnesie\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\aveen\documents\visual studio 2015\Projects\WebShopOnesie\WebShopOnesieProject\WebShopOnesie\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\aveen\documents\visual studio 2015\Projects\WebShopOnesie\WebShopOnesieProject\WebShopOnesie\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\aveen\documents\visual studio 2015\Projects\WebShopOnesie\WebShopOnesieProject\WebShopOnesie\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\aveen\documents\visual studio 2015\Projects\WebShopOnesie\WebShopOnesieProject\WebShopOnesie\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\aveen\documents\visual studio 2015\Projects\WebShopOnesie\WebShopOnesieProject\WebShopOnesie\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\aveen\documents\visual studio 2015\Projects\WebShopOnesie\WebShopOnesieProject\WebShopOnesie\bin\roslyn\System.Collections.Immutable.dll
+c:\users\aveen\documents\visual studio 2015\Projects\WebShopOnesie\WebShopOnesieProject\WebShopOnesie\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\aveen\documents\visual studio 2015\Projects\WebShopOnesie\WebShopOnesieProject\WebShopOnesie\bin\roslyn\vbc.exe
+c:\users\aveen\documents\visual studio 2015\Projects\WebShopOnesie\WebShopOnesieProject\WebShopOnesie\bin\roslyn\VBCSCompiler.exe
+c:\users\aveen\documents\visual studio 2015\Projects\WebShopOnesie\WebShopOnesieProject\WebShopOnesie\bin\roslyn\VBCSCompiler.exe.config
+c:\users\aveen\documents\visual studio 2015\Projects\WebShopOnesie\WebShopOnesieProject\WebShopOnesie\bin\WebShopOnesie.dll.config
+c:\users\aveen\documents\visual studio 2015\Projects\WebShopOnesie\WebShopOnesieProject\WebShopOnesie\bin\WebShopOnesie.dll
+c:\users\aveen\documents\visual studio 2015\Projects\WebShopOnesie\WebShopOnesieProject\WebShopOnesie\bin\WebShopOnesie.pdb
+c:\users\aveen\documents\visual studio 2015\Projects\WebShopOnesie\WebShopOnesieProject\WebShopOnesie\bin\Antlr3.Runtime.dll
+c:\users\aveen\documents\visual studio 2015\Projects\WebShopOnesie\WebShopOnesieProject\WebShopOnesie\bin\AspNet.ScriptManager.bootstrap.dll
+c:\users\aveen\documents\visual studio 2015\Projects\WebShopOnesie\WebShopOnesieProject\WebShopOnesie\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\aveen\documents\visual studio 2015\Projects\WebShopOnesie\WebShopOnesieProject\WebShopOnesie\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\aveen\documents\visual studio 2015\Projects\WebShopOnesie\WebShopOnesieProject\WebShopOnesie\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\aveen\documents\visual studio 2015\Projects\WebShopOnesie\WebShopOnesieProject\WebShopOnesie\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\aveen\documents\visual studio 2015\Projects\WebShopOnesie\WebShopOnesieProject\WebShopOnesie\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\aveen\documents\visual studio 2015\Projects\WebShopOnesie\WebShopOnesieProject\WebShopOnesie\bin\Microsoft.AI.Web.dll
+c:\users\aveen\documents\visual studio 2015\Projects\WebShopOnesie\WebShopOnesieProject\WebShopOnesie\bin\Microsoft.AI.WindowsServer.dll
+c:\users\aveen\documents\visual studio 2015\Projects\WebShopOnesie\WebShopOnesieProject\WebShopOnesie\bin\Microsoft.ApplicationInsights.dll
+c:\users\aveen\documents\visual studio 2015\Projects\WebShopOnesie\WebShopOnesieProject\WebShopOnesie\bin\Microsoft.AspNet.FriendlyUrls.dll
+c:\users\aveen\documents\visual studio 2015\Projects\WebShopOnesie\WebShopOnesieProject\WebShopOnesie\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\aveen\documents\visual studio 2015\Projects\WebShopOnesie\WebShopOnesieProject\WebShopOnesie\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\aveen\documents\visual studio 2015\Projects\WebShopOnesie\WebShopOnesieProject\WebShopOnesie\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\aveen\documents\visual studio 2015\Projects\WebShopOnesie\WebShopOnesieProject\WebShopOnesie\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\aveen\documents\visual studio 2015\Projects\WebShopOnesie\WebShopOnesieProject\WebShopOnesie\bin\Microsoft.Web.Infrastructure.dll
+c:\users\aveen\documents\visual studio 2015\Projects\WebShopOnesie\WebShopOnesieProject\WebShopOnesie\bin\Newtonsoft.Json.dll
+c:\users\aveen\documents\visual studio 2015\Projects\WebShopOnesie\WebShopOnesieProject\WebShopOnesie\bin\System.Web.Optimization.dll
+c:\users\aveen\documents\visual studio 2015\Projects\WebShopOnesie\WebShopOnesieProject\WebShopOnesie\bin\WebGrease.dll
+c:\users\aveen\documents\visual studio 2015\Projects\WebShopOnesie\WebShopOnesieProject\WebShopOnesie\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\aveen\documents\visual studio 2015\Projects\WebShopOnesie\WebShopOnesieProject\WebShopOnesie\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\aveen\documents\visual studio 2015\Projects\WebShopOnesie\WebShopOnesieProject\WebShopOnesie\bin\Microsoft.AI.Web.xml
+c:\users\aveen\documents\visual studio 2015\Projects\WebShopOnesie\WebShopOnesieProject\WebShopOnesie\bin\Microsoft.AI.WindowsServer.xml
+c:\users\aveen\documents\visual studio 2015\Projects\WebShopOnesie\WebShopOnesieProject\WebShopOnesie\bin\Microsoft.ApplicationInsights.xml
+c:\users\aveen\documents\visual studio 2015\Projects\WebShopOnesie\WebShopOnesieProject\WebShopOnesie\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\aveen\documents\visual studio 2015\Projects\WebShopOnesie\WebShopOnesieProject\WebShopOnesie\bin\System.Web.Optimization.xml
+c:\users\aveen\documents\visual studio 2015\Projects\WebShopOnesie\WebShopOnesieProject\WebShopOnesie\bin\Antlr3.Runtime.pdb
+c:\users\aveen\documents\visual studio 2015\Projects\WebShopOnesie\WebShopOnesieProject\WebShopOnesie\bin\Newtonsoft.Json.xml
+c:\users\aveen\documents\visual studio 2015\Projects\WebShopOnesie\WebShopOnesieProject\WebShopOnesie\bin\Microsoft.AspNet.FriendlyUrls.xml
+c:\users\aveen\documents\visual studio 2015\Projects\WebShopOnesie\WebShopOnesieProject\WebShopOnesie\obj\Debug\WebShopOnesie.csprojResolveAssemblyReference.cache
+c:\users\aveen\documents\visual studio 2015\Projects\WebShopOnesie\WebShopOnesieProject\WebShopOnesie\obj\Debug\WebShopOnesie.dll
+c:\users\aveen\documents\visual studio 2015\Projects\WebShopOnesie\WebShopOnesieProject\WebShopOnesie\obj\Debug\WebShopOnesie.pdb
+C:\Users\aveen\Source\Repos\CSharp\asp.net\WebShopOnesieProject\WebShopOnesie\bin\ApplicationInsights.config
+C:\Users\aveen\Source\Repos\CSharp\asp.net\WebShopOnesieProject\WebShopOnesie\bin\roslyn\csc.exe
+C:\Users\aveen\Source\Repos\CSharp\asp.net\WebShopOnesieProject\WebShopOnesie\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\aveen\Source\Repos\CSharp\asp.net\WebShopOnesieProject\WebShopOnesie\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\aveen\Source\Repos\CSharp\asp.net\WebShopOnesieProject\WebShopOnesie\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\aveen\Source\Repos\CSharp\asp.net\WebShopOnesieProject\WebShopOnesie\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\aveen\Source\Repos\CSharp\asp.net\WebShopOnesieProject\WebShopOnesie\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\aveen\Source\Repos\CSharp\asp.net\WebShopOnesieProject\WebShopOnesie\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\aveen\Source\Repos\CSharp\asp.net\WebShopOnesieProject\WebShopOnesie\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\aveen\Source\Repos\CSharp\asp.net\WebShopOnesieProject\WebShopOnesie\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\aveen\Source\Repos\CSharp\asp.net\WebShopOnesieProject\WebShopOnesie\bin\roslyn\vbc.exe
+C:\Users\aveen\Source\Repos\CSharp\asp.net\WebShopOnesieProject\WebShopOnesie\bin\roslyn\VBCSCompiler.exe
+C:\Users\aveen\Source\Repos\CSharp\asp.net\WebShopOnesieProject\WebShopOnesie\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\aveen\Source\Repos\CSharp\asp.net\WebShopOnesieProject\WebShopOnesie\bin\WebShopOnesie.dll.config
+C:\Users\aveen\Source\Repos\CSharp\asp.net\WebShopOnesieProject\WebShopOnesie\bin\WebShopOnesie.dll
+C:\Users\aveen\Source\Repos\CSharp\asp.net\WebShopOnesieProject\WebShopOnesie\bin\WebShopOnesie.pdb
+C:\Users\aveen\Source\Repos\CSharp\asp.net\WebShopOnesieProject\WebShopOnesie\bin\Antlr3.Runtime.dll
+C:\Users\aveen\Source\Repos\CSharp\asp.net\WebShopOnesieProject\WebShopOnesie\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\aveen\Source\Repos\CSharp\asp.net\WebShopOnesieProject\WebShopOnesie\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\aveen\Source\Repos\CSharp\asp.net\WebShopOnesieProject\WebShopOnesie\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\aveen\Source\Repos\CSharp\asp.net\WebShopOnesieProject\WebShopOnesie\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\aveen\Source\Repos\CSharp\asp.net\WebShopOnesieProject\WebShopOnesie\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\aveen\Source\Repos\CSharp\asp.net\WebShopOnesieProject\WebShopOnesie\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\aveen\Source\Repos\CSharp\asp.net\WebShopOnesieProject\WebShopOnesie\bin\Microsoft.AI.Web.dll
+C:\Users\aveen\Source\Repos\CSharp\asp.net\WebShopOnesieProject\WebShopOnesie\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\aveen\Source\Repos\CSharp\asp.net\WebShopOnesieProject\WebShopOnesie\bin\Microsoft.ApplicationInsights.dll
+C:\Users\aveen\Source\Repos\CSharp\asp.net\WebShopOnesieProject\WebShopOnesie\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\aveen\Source\Repos\CSharp\asp.net\WebShopOnesieProject\WebShopOnesie\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\aveen\Source\Repos\CSharp\asp.net\WebShopOnesieProject\WebShopOnesie\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\aveen\Source\Repos\CSharp\asp.net\WebShopOnesieProject\WebShopOnesie\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\aveen\Source\Repos\CSharp\asp.net\WebShopOnesieProject\WebShopOnesie\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\aveen\Source\Repos\CSharp\asp.net\WebShopOnesieProject\WebShopOnesie\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\aveen\Source\Repos\CSharp\asp.net\WebShopOnesieProject\WebShopOnesie\bin\Newtonsoft.Json.dll
+C:\Users\aveen\Source\Repos\CSharp\asp.net\WebShopOnesieProject\WebShopOnesie\bin\System.Web.Optimization.dll
+C:\Users\aveen\Source\Repos\CSharp\asp.net\WebShopOnesieProject\WebShopOnesie\bin\WebGrease.dll
+C:\Users\aveen\Source\Repos\CSharp\asp.net\WebShopOnesieProject\WebShopOnesie\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\aveen\Source\Repos\CSharp\asp.net\WebShopOnesieProject\WebShopOnesie\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\aveen\Source\Repos\CSharp\asp.net\WebShopOnesieProject\WebShopOnesie\bin\Microsoft.AI.Web.xml
+C:\Users\aveen\Source\Repos\CSharp\asp.net\WebShopOnesieProject\WebShopOnesie\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\aveen\Source\Repos\CSharp\asp.net\WebShopOnesieProject\WebShopOnesie\bin\Microsoft.ApplicationInsights.xml
+C:\Users\aveen\Source\Repos\CSharp\asp.net\WebShopOnesieProject\WebShopOnesie\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\aveen\Source\Repos\CSharp\asp.net\WebShopOnesieProject\WebShopOnesie\bin\System.Web.Optimization.xml
+C:\Users\aveen\Source\Repos\CSharp\asp.net\WebShopOnesieProject\WebShopOnesie\bin\Antlr3.Runtime.pdb
+C:\Users\aveen\Source\Repos\CSharp\asp.net\WebShopOnesieProject\WebShopOnesie\bin\Newtonsoft.Json.xml
+C:\Users\aveen\Source\Repos\CSharp\asp.net\WebShopOnesieProject\WebShopOnesie\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\aveen\Source\Repos\CSharp\asp.net\WebShopOnesieProject\WebShopOnesie\obj\Debug\WebShopOnesie.csprojResolveAssemblyReference.cache
+C:\Users\aveen\Source\Repos\CSharp\asp.net\WebShopOnesieProject\WebShopOnesie\obj\Debug\WebShopOnesie.dll
+C:\Users\aveen\Source\Repos\CSharp\asp.net\WebShopOnesieProject\WebShopOnesie\obj\Debug\WebShopOnesie.pdb
+C:\Users\aveen\Source\Repos\CSharp\asp.net\WebShopOnesieProject\WebShopOnesie\bin\BL.dll
+C:\Users\aveen\Source\Repos\CSharp\asp.net\WebShopOnesieProject\WebShopOnesie\bin\DAL.dll
+C:\Users\aveen\Source\Repos\CSharp\asp.net\WebShopOnesieProject\WebShopOnesie\bin\BL.pdb
+C:\Users\aveen\Source\Repos\CSharp\asp.net\WebShopOnesieProject\WebShopOnesie\bin\DAL.pdb
